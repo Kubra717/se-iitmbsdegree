@@ -2,7 +2,7 @@
 
 ## General Questions
 
-### What are the expected learning outcomes from the project?
+### 1. What are the expected learning outcomes from the project?
 **Answer:** The expected learning outcomes from the project include gaining practical experience in real-world software development, enhancing problem-solving skills, and applying theoretical knowledge to design, implement, and test functional solutions. It also involves learning to collaborate effectively, manage timelines, and adapt to challenges.
 
 ### Is the project mandatory for all students?
