@@ -1,4 +1,4 @@
-# Software Engineering Project Evaluation  
+# Project Evalaution
 
 The project is evaluated based on multiple parameters and through various evaluation methods.  
 
