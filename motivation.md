@@ -6,13 +6,15 @@ Here’s how different contributors—whether developers, product thinkers, rese
 
 ---
 
-## 1. Exposure to Emerging Technologies
+## 1. Exposure to different Technologies
 
-For those working on the AI and backend systems, this project offers **hands-on experience** with tools like:
+This project offers **hands-on experience** with integration of tools like:
 
 - OpenAI, HuggingFace, LangChain
-- Understanding how generative AI tools work
+- Generative AI tools
 - Integration of AI into real-world applications
+- Communication tools like Discourse
+- Popular Google Services
 
 Even non-coders get to learn what these tools are capable of and how to use them thoughtfully.
 
