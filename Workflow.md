@@ -3,6 +3,7 @@
 ## Overview
 This document outlines the team formation process, role assignment, project milestones, workflow, and client interactions for the SE Project course. It is designed for reproducibility across terms and as a reference for peer institutions aiming to adopt similar experiential learning models.
 
+
 ---
 
 ## 1. Team Formation
@@ -10,6 +11,7 @@ This document outlines the team formation process, role assignment, project mile
 - At the beginning of the course, a **Google Form** is circulated to students via official email for self-organized team formation.
 - Each team consists of **7–8 members**.
 - Students who do not self-organize into a group are **assigned teams** by the course instructors and TAs to ensure inclusivity and even distribution.
+
 
 ---
 
@@ -78,6 +80,7 @@ These meetings follow real-world client interaction scenarios, allowing teams to
 - Mandatory for all team members
 - Attendance is monitored and factored into grading and peer evaluations
 
+
 ---
 
 ## Summary Workflow
@@ -85,6 +88,7 @@ These meetings follow real-world client interaction scenarios, allowing teams to
 ```
 Google Form → Team Formation → Role Distribution → Agile Workflow → Milestones → Weekly Client Meetings
 ```
+
 
 ---
 
