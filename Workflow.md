@@ -1,5 +1,4 @@
-# Software Engineering Project - Processes Documentation  
-> *IIT Madras Online BS Degree Program*
+# End-to-End Workflow  
 
 ## Overview
 This document outlines the team formation process, role assignment, project milestones, workflow, and client interactions for the SE Project course. It is designed for reproducibility across terms and as a reference for peer institutions aiming to adopt similar experiential learning models.
@@ -26,7 +25,6 @@ A second Google Form is sent to all teams for selecting individual roles. The fo
 | Backend Developer        | Builds and maintains APIs, server-side logic, and database interactions.       |
 | Tester                   | Designs and executes test cases, ensures code quality and feature validation.  |
 
-*Additional roles can be defined within teams depending on need (e.g., UI/UX Designer, DevOps Lead).*
 
 ---
 
@@ -69,7 +67,6 @@ These meetings follow real-world client interaction scenarios, allowing teams to
 - Align with client expectations (taken by TAs/instructors)
 
 ### Scheduling
-- Weekly slots are shared with students via email using a booking system.
 - Teams must reserve a convenient slot for their weekly check-in.
 
 ### Guidelines
