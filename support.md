@@ -40,6 +40,35 @@ Helpful for understanding real-world software design patterns, architecture, and
 
 ---
 
+## 7. Reference Material
+
+### 1. Ace Integration with Web Application  
+**Session Date:** 14 June 2024  
+- [Session Link](https://www.youtube.com/live/8U8D74CNhEk)  
+- [Presentation](https://docs.google.com/presentation/d/1k-Op2JUPRJSjPQUbF1Ntu4CLD-m8r40WTUBAqeKVfko/edit?usp=sharing)  
+- [Code](https://github.com/ShubhamYadav9416/Software_Engg_Ace_Editor_CLI/tree/main)  
+
+---
+
+### 2. GenAI Integration  
+**Session Date:** 21 June 2024  
+- [Session Link](https://www.youtube.com/live/NiUObH9DHlY)  
+- [Colab Link](https://colab.research.google.com/drive/12AFoOl3Xb26pkIJtyY0g8lbZk0VciVPA?usp=sharing)  
+- [Git Repository](https://github.com/nk-droid/SE-TAship-Materials/blob/main/notebooks/How_to_inference_HuggingFace_Models.ipynb)  
+
+---
+
+### 3. Fine Tuning  
+**Session Date:** 12 July 2024  
+- [Session Link](https://www.youtube.com/live/t-RjuL8TbJA)  
+- [Colab: Langchain for LLMs](https://colab.research.google.com/drive/17RlLCc4JstQTHi5HIb0pGDUG3OgKdILk?usp=sharing)  
+- [Colab: Fine-tuning Phi-3](https://colab.research.google.com/drive/1PHkWin-9aMY6P87zmih-FWs_YhEur0nO?usp=sharing)  
+
+### 4. Intro to Langchain  
+**Session Date:** 24 January 2025  
+- [Live Session Link](https://www.youtube.com/live/fI77hGJdrkc)  
+- [Git Repository](https://github.com/nk-droid/SE-TAship-Materials/tree/main)
+  
 # Communication & Query Resolution
 
 Staying connected and getting help at the right time is key to successfully completing this project. Multiple communication channels are available to support you throughout the course:
@@ -98,7 +127,7 @@ Keep an eye on the course calendar for session timings.
 
 ---
 
-# Tips for Effective Communication
+## Tips for Effective Communication
 
 - Prefer GSpace for quick team and mentor discussions.  
 - Use Discourse for structured, public doubt resolution.  
