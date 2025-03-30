@@ -1,4 +1,4 @@
-# Resources Document – Software Engineering Project (Jan 2025)
+# Resources Document – Software Engineering Project 
 
 Below are all the essential resources and tools that will support your journey through this project, including community forums, content links, calendar access, and tools to improve documentation and communication quality.
 
@@ -93,7 +93,6 @@ You can use this space for:
 ---
 
 ## 2. Discourse Forum
-**Link:** Link to discourse  
 
 A public forum for posting technical doubts, project-related queries, and checking resolved discussions.
 
