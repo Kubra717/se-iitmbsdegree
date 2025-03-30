@@ -1,6 +1,6 @@
 # Ticket System Integration with Discourse and Webhooks
 
-In this **software engineering project**, you'll enhance an existing **Ticketing application** created by students in the previous term. Instead of writing code from scratch, the goal is to **reuse and improve** the existing system, as many software solutions do to save time.
+In this **software engineering project**, you'll enhance an existing **Ticketing application** created by students in the previous term([Sept 2023](/term_projects/2023_sept/problem_statement.md)). Instead of writing code from scratch, the goal is to **reuse and improve** the existing system, as many software solutions do to save time.
 
 ## Additional Features to be Added:
 
@@ -22,10 +22,3 @@ The Discourse API provides various features for integration. Explore the [Discou
 
 ### 2. **Webhooks Integration**
 Certain tickets can be high priority and need to be addressed immediately or If a student feels the resolved ticket didn’t address the problem, they can escalate it.On escalating an issue, make sure the system is configured with GChat webhooks,triggering a notification to the support team lead in GChat.
-
-
-
-## Sample Projects:
-Below is a link to **4 sample projects** created by students in the previous term. You can choose any one of them as your **code base** to start with and incorporate additional features required in this term.
-
-🔗 [Sample Projects](https://drive.google.com/drive/folders/10B7-rmdvu1peTyKTber9Ys5wc_KXA6pO?usp=sharing)
