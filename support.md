@@ -5,7 +5,6 @@ Below are all the essential resources and tools that will support your journey t
 ---
 
 ## 1. Discourse Forum (Doubt Discussion)
-**Link:** [IITM BS Discourse Forum](https://discourse.onlinedegree.iitm.ac.in/c/courses/softengg-kb/56)  
 Use this forum to ask project or course-related doubts, discuss concepts with peers, and check instructor/TA announcements.
 
 ---
@@ -17,13 +16,11 @@ Use these for resolving doubts directly with instructors and TAs, and for walkth
 ---
 
 ## 3. Course Calendar
-**Link:** [Course Calendar](https://calendar.google.com/calendar/u/0/r?cid=Y181NmZ1NjRvaTZqbGgyNzJrajBnYzRibTQ2OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)  
 Track milestone deadlines, live session schedules, and submission dates.
 
 ---
 
 ## 4. Course Portal (SEEK Portal)
-**Direct Access:** [Portal Link](https://seek.onlinedegree.iitm.ac.in/courses/ns_24t3_cs3001?id=9&type=lesson&tab=courses&unitId=3&ann=5282429447176192)  
 Your central hub for video lectures, assignments, quizzes, and announcements.
 
 ---
