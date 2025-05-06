@@ -12,7 +12,7 @@ The problem statement for the project may vary from term to term, allowing for f
 
 Explore the documentation:
    - [FAQ](docs/FAQ.md) - Frequently Asked Questions
-   - [Workflow](docs/Workflow.md) - Standard workflow for projects
+   - [Workflow](docs/workflow.md) - Standard workflow for projects
    - [Evaluation](docs/evaluation.md) - Guidelines for project evaluation
    - [Motivation](docs/motivation.md) - Insights on project motivation
    - [Support](docs/support.md) - Available support for project completion
