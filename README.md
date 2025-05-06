@@ -36,7 +36,7 @@ Explore the documentation:
 ```
 
 ## Workflow
-The End-to-End Workflow [document](docs/Workflow.md) provides a comprehensive guide to team formation, role distribution, project management, and client interactions within the SE Project course. It follows an Agile methodology, outlining milestones and meeting protocols to ensure effective collaboration and real-world project experience. This structured approach aids both students and instructors in maintaining consistency and clarity throughout the project.
+The End-to-End Workflow [document](docs/workflow.md) provides a comprehensive guide to team formation, role distribution, project management, and client interactions within the SE Project course. It follows an Agile methodology, outlining milestones and meeting protocols to ensure effective collaboration and real-world project experience. This structured approach aids both students and instructors in maintaining consistency and clarity throughout the project.
 
 
 ## Project Statement for Recent Terms
