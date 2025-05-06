@@ -53,6 +53,7 @@ The Outcomes section showcases the most outstanding projects from recent terms, 
 
 - [2024 May Best Projects](term_projects/2024_may/best_projects.md)
 - [2024 Sept Best Projects](term_projects/2024_sept/best_projects.md) 
+- [2025 Jan Best Projects](term_projects/2025_Jan/best_projects.md) 
 
 ## Usage
 
