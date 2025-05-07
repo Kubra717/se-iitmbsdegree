@@ -60,11 +60,6 @@ The Outcomes section showcases the most outstanding projects from recent terms, 
 - Navigate to the `docs/` directory to access detailed guidelines and FAQs.
 - Refer to the `term_projects/` directory for problem statements and best projects from different terms.
 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 For questions or feedback, please open an issue or join the discussion.
