@@ -9,7 +9,7 @@ This document outlines the team formation process, role assignment, project mile
 ## 1. Team Formation
 
 - At the beginning of the course, a **Google Form** is circulated to students via official email for self-organized team formation.
-- Each team consists of **7–8 members**.
+- Team size is decided at the beginning of each term.
 - Students who do not self-organize into a group are **assigned teams** by the course instructors and TAs to ensure inclusivity and even distribution.
 
 
