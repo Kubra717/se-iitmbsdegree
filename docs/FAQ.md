@@ -59,7 +59,7 @@ The team size is not decided yet for the current term.
 **Answer:** No, each team member must individually evaluate a separate team.
 
 **7. Are peer reviews or feedback sessions part of the process?**  
-**Answer:** Yes, after milestones 3 and 6, a Google Form is rolled out with rubrics for peer reviews.
+**Answer:** Yes, after milestones 3 and 6, a Form is rolled out with rubrics for peer reviews.
 
 **8. Is Peer Review Mandatory?**  
 **Answer:** Yes, peer reviews are mandatory. Students who fail to complete peer evaluations will not receive marks for that component.

@@ -47,6 +47,8 @@ This section contains the project statements from recent academic terms.
 - [May 2024](term_projects/2024_may/problem_statement.md)
 - [Sept 2024](term_projects/2024_sept/problem_statement.md)
 - [Jan 2025](term_projects/2025_Jan/problem_statement.md)
+- [May 2025](term_projects/2025_may/problem_statement.md)
+- [Sept 2025](term_projects/2025_sept/problem_statement.md)
 
 ## Outcomes
 The Outcomes section showcases the most outstanding projects from recent terms, highlighting innovative solutions and well-executed implementations. It includes the teams' code bases and demo presentations, serving as a benchmark for future projects.
@@ -54,6 +56,8 @@ The Outcomes section showcases the most outstanding projects from recent terms, 
 - [2024 May Best Projects](term_projects/2024_may/best_projects.md)
 - [2024 Sept Best Projects](term_projects/2024_sept/best_projects.md) 
 - [2025 Jan Best Projects](term_projects/2025_Jan/best_projects.md) 
+- [2025 May Best Projects](term_projects/2025_may/best_projects.md)
+- [2025 Sept Best Projects](term_projects/2025_sept/best_projects.md)
 
 ## Usage
 
