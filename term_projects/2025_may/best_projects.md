@@ -17,7 +17,7 @@ After multiple levels of evaluation, the following projects have been recognized
 
 **Resources:**
 - [Demo Video](https://youtu.be/TOOqaQjbmbQ)
-- [GitHub Repository](https://github.com/shubhusion/soft-engg-project-jan-2025-se-Jan-11)
+- [GitHub Repository](https://github.com/Jeevanbidgar/soft-engg-project-may-2025-se-May-Team-25)
 ---
 
 ## Team No. 15
@@ -32,7 +32,7 @@ After multiple levels of evaluation, the following projects have been recognized
 
 **Resources:**
 - [Demo Video](https://youtu.be/BuIFvuW4eXw)
-- [GitHub Repository](https://github.com/amittkulkarni/soft-engg-project-jan-2025-se-Jan-1)
+- [GitHub Repository](https://github.com/yash4agr/soft-engg-project-may-2025-se-May-15)
 
 ---
 
@@ -49,7 +49,7 @@ After multiple levels of evaluation, the following projects have been recognized
 
 **Resources:**
 - [Demo Video](https://youtu.be/Ujf7UzSWqRk)
-- [GitHub Repository](https://github.com/akulbansal1/soft-engg-project-may-2025-se-May-8)   done
+- [GitHub Repository](https://github.com/akulbansal1/soft-engg-project-may-2025-se-May-8)
 
 
 ## Team No. 2
@@ -65,4 +65,4 @@ After multiple levels of evaluation, the following projects have been recognized
 
 **Resources:**
 - [Demo Video](https://youtu.be/96cOFbKgscE)
-- [GitHub Repository]()
+- [GitHub Repository](https://github.com/Arjitakushwah/soft-engg-project-may-2025-se-May-2)
